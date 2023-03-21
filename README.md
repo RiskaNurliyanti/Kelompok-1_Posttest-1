@@ -4,8 +4,7 @@
  - Cantika Fitri Ayu. D -2009106045
  
 ## Judul studi kasus
-## Deskripsi
-## Metode IoT
+   - Mengatur On Off Buzzer dan LED
 ## Pembagian Tugas
  ### Riska Nurliyanti
  - Menambah dan mengurangi kecerahan LED 
@@ -20,4 +19,8 @@
  - On off buzzer dan LED
  
 ## Komponen yang Digunakan
+- buzzer
+- LED
+- BUTTON
+- Kabel Male to Male
 ## Board Schematic
