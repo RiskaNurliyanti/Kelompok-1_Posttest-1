@@ -24,3 +24,6 @@
 - BUTTON
 - Kabel Male to Male
 ## Board Schematic
+<p align="center">
+  <img src="rangkaian.jpeg" width="350" title="hover text">
+</p>
