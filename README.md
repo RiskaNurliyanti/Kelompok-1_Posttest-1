@@ -21,8 +21,11 @@
 ## Komponen yang Digunakan
 - buzzer
 - LED
-- BUTTON
-- Kabel Male to Male
+- PUSH BUTTON
+- Resistor
+- Bread board
+- Esp8266
+- Kabel jumper
 ## Board Schematic
 <p align="center">
   <img src="rangkaian.jpeg" width="350" title="rangkaian posttest 1">
